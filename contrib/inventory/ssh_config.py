@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3.6
 
 # (c) 2014, Tomas Karasek <tomas.karasek@digile.fi>
 #
